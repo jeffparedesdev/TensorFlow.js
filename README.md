@@ -1,4 +1,4 @@
-# TensorFlow.js Example: Training MNIST with Node.js
+Training MNIST with Node.js
 
 This example shows you how to train MNIST (using the layers API) under Node.js.
 
